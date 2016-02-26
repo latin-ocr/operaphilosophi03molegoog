@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaphilosophi03molegoog/operaphilosophi03molegoog_0005.png"; bbox 0 0 929 1467; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 255 490 565 517">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 255 490 565 517">
+     <span class='ocr_line' id='line_1_1' title="bbox 255 490 565 517; baseline 0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 255 490 565 517; x_wconf 91' lang='lat' dir='ltr'><strong>LEVIATHAN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 161 637 663 660">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 161 637 663 660">
+     <span class='ocr_line' id='line_1_2' title="bbox 161 637 663 660; baseline 0.002 -4"><span class='ocrx_word' id='word_1_2' title='bbox 161 637 196 656; x_wconf 89' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_3' title='bbox 210 637 338 660; x_wconf 78' lang='lat' dir='ltr'><strong>MATERIA,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 353 637 452 660; x_wconf 79' lang='lat' dir='ltr'>FORMA,</span> <span class='ocrx_word' id='word_1_5' title='bbox 467 637 500 656; x_wconf 85' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_6' title='bbox 514 637 663 657; x_wconf 82' lang='lat' dir='ltr'>POTESTATE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 307 712 512 735">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 307 712 512 735">
+     <span class='ocr_line' id='line_1_3' title="bbox 307 712 512 735; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 307 712 512 735; x_wconf 87' lang='lat' dir='ltr'><strong>CIVITATIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 224 790 597 810">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 224 790 597 810">
+     <span class='ocr_line' id='line_1_4' title="bbox 224 790 597 810; baseline 0.003 -1"><span class='ocrx_word' id='word_1_8' title='bbox 224 790 434 810; x_wconf 83' lang='lat' dir='ltr'>ECCLESIASTICAE</span> <span class='ocrx_word' id='word_1_9' title='bbox 447 790 481 810; x_wconf 89' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_10' title='bbox 495 790 597 810; x_wconf 86' lang='lat' dir='ltr'>CIVILIS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 289 908 516 929">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 289 908 516 929">
+     <span class='ocr_line' id='line_1_5' title="bbox 289 908 516 929; baseline 0 -3"><span class='ocrx_word' id='word_1_11' title='bbox 289 909 388 926; x_wconf 83' lang='grc' dir='ltr'>ΤΗΟΜΑ</span> <span class='ocrx_word' id='word_1_12' title='bbox 404 908 516 929; x_wconf 70' lang='grc' dir='ltr'>ΗΟΒΒΕδ,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 338 951 477 962">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 338 951 477 962">
+     <span class='ocr_line' id='line_1_6' title="bbox 338 951 477 962; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 338 951 420 962; x_wconf 61' lang='lat' dir='ltr'>ustassai</span> <span class='ocrx_word' id='word_1_14' title='bbox 425 951 477 962; x_wconf 69' lang='grc' dir='ltr'>κιικιι</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
